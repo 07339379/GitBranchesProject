@@ -1,0 +1,7 @@
+#ignore all content config 
+app.config
+   
+#ignore
+setting.json
+
+*.log
